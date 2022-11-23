@@ -7,7 +7,7 @@ We propose an intermediate representation between the microbiome and the metabol
 concentrations and show that this representation can be used to predict the host phenotype better than either the microbiome or the metabolome.
 
 ## How to apply LOCATE
-LOCATE's code is avaliable at this github as well as a [pypi](https://pages.github.com/).
+LOCATE's code is avaliable at this [GitHub](https://github.com/oshritshtossel/LOCATE/) as well as a [pypi](https://pypi.org/project/LOCATE-model/).
 
 ### LOCATE's GitHub
 #### LOCATE_model
