@@ -111,7 +111,7 @@ This package contains 2 different elements:
   
   #### Installing LOCATE
   
-  ```pip install LOCATE```
+  ```pip install LOCATE-model```
   
   #### Using LOCATE
   ```
