@@ -4,7 +4,7 @@ import pytorch_lightning as pl
 import numpy as np
 from pytorch_lightning.callbacks import EarlyStopping
 from pytorch_lightning.loggers import TensorBoardLogger
-from LOCATE_model import GeneralModel
+from LOCATE import LOCATE_Model as GeneralModel
 from torch.utils.data import DataLoader, TensorDataset
 
 

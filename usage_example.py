@@ -1,7 +1,7 @@
 import pandas as pd
 import numpy as np
 
-from LOCATE_functions import LOCATE_training, LOCATE_predict
+from LOCATE import LOCATE_training, LOCATE_predict
 
 if __name__ == '__main__':
     # Generate random data for example
